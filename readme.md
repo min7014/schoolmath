@@ -1,7 +1,6 @@
 
 시작
 
-[목차](./README.md)
 
 [이등변 삼각형(Isosceles triangle)](./2018123001.md)
 
