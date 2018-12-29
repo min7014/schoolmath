@@ -2,7 +2,7 @@
 
 [이등변 삼각형(Isosceles triangle)](./math/2018123001.md) [AlgeoMath : http://me2.do/G512s4Ma]
 
-직각삼각형 [AlgeoMath : http://me2.do/G8QrbYJi ]
+[직각삼각형](./math/2018123002.md) [AlgeoMath : http://me2.do/G8QrbYJi ]
 
 삼각형 내심 [AlgeoMath : http://me2.do/5ZGAtjpR ]
 
