@@ -1,4 +1,4 @@
-#
+# 학교수학
 
 [이등변 삼각형(Isosceles triangle)](./2018123001.md) [AlgeoMath : http://me2.do/G512s4Ma]
 
